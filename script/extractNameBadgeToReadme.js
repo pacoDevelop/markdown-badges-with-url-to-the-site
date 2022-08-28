@@ -1,3 +1,4 @@
+// Use in https://github.com/Ileriayo/markdown-badges in developers tools
 var badgeName=[];
 
 var i=0;
