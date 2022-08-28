@@ -1,5 +1,5 @@
 ![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
-
+[![Amazon Alexa]][Amazon Alexa-url]
 # Markdown Badges
 Add badges to your Profile and Projects.
 
@@ -937,8 +937,7 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 [(Back to top)](#table-of-contents)
 
 
-BADGE
-
+<!-- BADGE -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Python3]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Android Studio]: https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white
@@ -1513,7 +1512,7 @@ BADGE
 
 
 
-BADGE URL 
+<!-- BADGE-URL --> 
 [Next-url]: https://nextjs.org/
 [Android Studio-url]: https://developer.android.com/studio
 [Android-url]: https://www.android.com
@@ -1657,7 +1656,7 @@ BADGE URL
 [Github-sponsors-url]: https://github.com/sponsors
 [Green Sock-url]: https://greensock.com
 [Udacity-url]: https://www.udacity.com
-[Blazor-url]: https://docs.microsoft.com//Aplicaciones web
+[Blazor-url]: https://docs.microsoft.com/es-es/Aplicaciones%20web
 [.Net-url]: https://docs.microsoft.com/es-es/dotnet
 [Chart.js-url]: https://www.chartjs.org
 [Fastify-url]: https://www.fastify.io
@@ -1761,7 +1760,7 @@ BADGE URL
 [Vuetify-url]: https://vuetifyjs.com
 [Vue.js-url]: https://vuejs.org
 [Spring-url]: https://spring.io
-[Xamarin-url]: https://docs.microsoft.com//Xamarin/Get Started
+[Xamarin-url]: https://docs.microsoft.com//Xamarin/Get%20Started
 [WebGL-url]: https://get.webgl.org
 [Battle.net-url]: https://www.blizzard.com/es-es
 [Itch.io-url]: https://itch.io
@@ -1815,7 +1814,7 @@ BADGE URL
 [NetBeans IDE-url]: https://netbeans.apache.org/downl
 [Rider-url]: https://www.jetbrains.com/es-es/rider
 [Atom-url]: https://atom.io
-[CSS3-url]: https://openwebinars.net//Desarrollo Web
+[CSS3-url]: https://openwebinars.net//Desarrollo%20Web
 [OVH-url]: https://www.ovhcloud.com/es-es
 [Visual Studio-url]: https://visualstudio.microsoft.com/
 [WebStorm-url]: https://www.jetbrains.com/es-es/webstorm
@@ -1881,7 +1880,7 @@ BADGE URL
 [NumPy-url]: https://numpy.org
 [SciPy-url]: https://scipy.org
 [Pandas-url]: https://pandas.pydata.org
-[Swift-url]: https://www.bbva.es/Educación financiera/Cuentas
+[Swift-url]: https://www.apple.com/es/swift/
 [Deezer-url]: https://www.deezer.com/
 [PyTorch-url]: https://pytorch.org
 [Reddit-url]: https://reddit.com
