@@ -110,7 +110,11 @@ The project has a separate contribution file. Please adhere to the steps listed 
 
 ## Contact
 
-You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
+You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo) - Original repository
+
+pacoDevelop - [@pacohernandezsa](https://twitter.com/pacohernandezsa) - franciscohernandezsantos3@gmail.com - Fork to repository origin
+
+Project Link: [https://github.com/pacoDevelop/markdown-badges-with-url-to-the-site](https://github.com/pacoDevelop/markdown-badges-with-url-to-the-site)
 
 ## License
 
@@ -123,11 +127,11 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 ### 🤖 Artificial Intelligence and Bots
 
-| Name             | Badge                                                                                                                                   | Badge-url                                     | Markdown                                                                                                                                  |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Amazon Alexa     | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)             | [![][amazon alexa]][amazon alexa-url]         | `![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)`             |
-| Dependabot       | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)                       | [![][dependabot]][dependabot-url]             | `![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)`                       |
-| Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | [![][google assistant]][google assistant-url] | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
+| Name             | Badge                                                                                                                                   | Badge-url                                   | Markdown                                                                                                                                  |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Amazon Alexa     | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)             | [![amazon alexa]][amazon alexa-url]         | `![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)`             |
+| Dependabot       | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)                       | [![dependabot]][dependabot-url]             | `![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)`                       |
+| Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | [![google assistant]][google assistant-url] | `![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)` |
 
 [(Back to top)](#table-of-contents)
 
