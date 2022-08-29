@@ -1516,8 +1516,8 @@ You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
 
 <!-- BADGE-URL -->
 
-[vultr]: https://www.vultr.com/es/
-[meteor js]: https://www.meteor.com
+[vultr-url]: https://www.vultr.com/es/
+[meteor js-url]: https://www.meteor.com
 [next-url]: https://nextjs.org/
 [android studio-url]: https://developer.android.com/studio
 [android-url]: https://www.android.com
